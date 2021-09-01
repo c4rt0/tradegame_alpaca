@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "@alpacahq/alpaca-trade-api": "^2.5.0",
-    "dotenv": "^10.0.0"
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1"
   },
   "devDependencies": {},
   "scripts": {
