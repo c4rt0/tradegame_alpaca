@@ -1,0 +1,16 @@
+{
+  "name": "alpaca_tradegame",
+  "version": "1.0.0",
+  "description": "1. install dotenv\r ```bash\r npm install dotenv\r ```\r 2. install alpaca:",
+  "main": "index.js",
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^2.5.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Piasecki",
+  "license": "ISC"
+}

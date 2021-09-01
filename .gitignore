@@ -1,0 +1,4 @@
+/node_modules
+/alpaca-trade-api-js
+.env
+package-lock.json
